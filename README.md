@@ -1,2 +1,2 @@
 # Whatsapp-Clone
-Whatsapp Clone using HTML, CSS
+Whatsapp Clone using HTML, CSS, JS
